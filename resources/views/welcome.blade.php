@@ -10,7 +10,7 @@
 <body >
     <audio controls autoplay loop style="position:fixed ; z-index: 9999; top:90% ; left: 39%">
         <source src="{{ asset('welcome/music/guns.mp3') }}" type="audio/mp3">
-        Tu navegador no soporta el elemento de audio.
+        Tu navegador no soporta el elemento del audio.
     </audio>
     <div class="hero">
 
